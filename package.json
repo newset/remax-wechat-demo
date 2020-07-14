@@ -12,7 +12,7 @@
     "build": "NODE_ENV=production remax build -t wechat"
   },
   "dependencies": {
-    "@doctorwork/one": "0.0.6-alpha",
+    "@doctorwork/one": "^0.1.0",
     "clsx": "^1.0.4",
     "react": "^16.8.6",
     "remax": "^2.0.0"
